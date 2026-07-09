@@ -7,3 +7,5 @@
 4. Client context: `~/Desktop/CLIENTS/_Active/JKCA/CLAUDE.md` + `STATUS.md` — update STATUS when work ships (the board reads it)
 
 Non-negotiables here: Cloudflare "JKCA Stacks" is PRODUCTION (read-only by default; deploys are Tier B: verify locally, never push unverified). Raw shoots/brand sources/client docs stay in CLIENTS — never commit them to this repo. No off-system design values. Invent nothing.
+
+No AI authorship: never add Co-Authored-By / Generated-with trailers to commits, PRs, or files in this repo (Json, 2026-07-09).
