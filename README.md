@@ -14,7 +14,7 @@ The shop itself runs on an agent ops lane: nightly fleet checks with visual regr
 
 - **[jkca.studio](https://jkca.studio)** — the studio
 - **[speedkrafted.com](https://speedkrafted.com)** — our producer studio for bigger, faster, multi-disciplinary briefs
-- **[beachybeat.com](https://beachybeat.com)** — hyperlocal, time-first event guide (Seal Beach + Sunset Beach; self-refreshing data pipeline)
+- **[beachybeat.com](https://beachybeat.com)** — hyperlocal, time-first event guide for three beach cities (Seal Beach, Sunset Beach, Huntington Beach; self-refreshing data pipeline)
 - **[ravensmint.com](https://ravensmint.com)** — numismatics brand with a computer-vision photo pipeline behind it
 - **[theundealer.com](https://theundealer.com)** — coin intelligence, dealer-free
 
