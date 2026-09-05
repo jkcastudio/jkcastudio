@@ -1,6 +1,6 @@
 # JKCA Studio
 
-Web, brand, and tooling studio in Southern California. In tech since 1999; shipping for a portfolio of ~50 clients across web, commerce, print, packaging, and photography.
+Web, brand, and tooling studio in Seal Beach, California, run by Json Knepper. In tech since 1995, the shop since 2011; shipping for a portfolio of ~50 founder-led brands across web, commerce, print, packaging, and photography.
 
 Every site we ship has to beat the WordPress version we'd have built ten years ago, or it doesn't ship.
 
@@ -13,25 +13,30 @@ The shop itself runs on an agent ops lane: nightly fleet checks with visual regr
 ## Live — built and run by us
 
 - **[jkca.studio](https://jkca.studio)** — the studio
+- **[care.jkca.studio](https://care.jkca.studio)** — site care as a product: monitoring, restore-tested backups, a monthly report a person can read; Stripe Billing, client portal, one customer per client
+- **[kindform.co](https://kindform.co)** — client questionnaires and approval sheets that finish themselves; used on every JKCA intake
 - **[speedkrafted.com](https://speedkrafted.com)** — our producer studio for bigger, faster, multi-disciplinary briefs
-- **[beachybeat.com](https://beachybeat.com)** — hyperlocal, time-first event guide for three beach cities (Seal Beach, Sunset Beach, Huntington Beach; self-refreshing data pipeline)
+- **[beachybeat.com](https://beachybeat.com)** — hyperlocal, time-first event guide for three beach cities (self-refreshing data pipeline)
 - **[ravensmint.com](https://ravensmint.com)** — numismatics brand with a computer-vision photo pipeline behind it
 - **[theundealer.com](https://theundealer.com)** — coin intelligence, dealer-free
-- **[kindform.co](https://kindform.co)** — client questionnaires that finish themselves
 
 ## Recent client launches
 
+- **[barneyculls.com](https://barneyculls.com)** — family hull-cleaning outfit, Huntington Harbour since 1979: brand, site, live rate calculator, two-tier header, perception-audited (Sep 2026)
+- **[richardwatts.com](https://richardwatts.com)** — author and family-business advisor: three books on one shelf, press band, social system
 - **[bhcrhq.com](https://bhcrhq.com)** — industrial refrigerant group: full brand hub, WordPress fleet → static Astro on Cloudflare, email carried intact through the DNS cut
 - **[eco-kold.com](https://eco-kold.com)** — flagship product brand under BHCR: design system, product architecture, launch
 - **[golfonharbor.com](https://golfonharbor.com)** — family driving range in Fullerton: design system, launch, domain rescue
 - **[jkingneptune.com](https://www.jkingneptune.com)** — 50-year coastal bar & restaurant, WordPress → static Astro on Cloudflare
-- Ongoing: a 12-month migration program moving a WordPress fleet to the Astro/Cloudflare stack
+- In preview: Treebones Resort (Big Sur, faithful WordPress → Astro port), Ash Scatterings at Sea, Set Me Free, Fishcamp (Alaska), all on the Astro/Cloudflare stack
+- Ongoing: a 12-month migration program moving a WordPress fleet to Astro on Cloudflare
 
 ## In the shop
 
-- **MasterKrafted** — one management panel for a whole hosting fleet (sites, DNS, deploys, uptime). In private dogfood across 59 sites.
+- **MasterKrafted** — one management panel for a whole hosting fleet (sites, DNS, deploys, uptime). In private dogfood across ~60 sites.
 - **Care plans** — monthly site care where the report is the product: uptime, speed, backups, and the work done, in plain English.
-- Agency toolkit: codified design/voice/launch/funnel playbooks, QA harnesses, and a base theme every build forks from.
+- **Agency toolkit** — codified design, voice, launch, and funnel playbooks; QA harnesses; a perception audit (44pt targets, contrast, motion bands) that runs against every live site; a Base Theme every build forks from.
+- **Ops lane** — nightly fleet probes, weekly offline backups of every site and zone, self-healing on the hosting box, an email drop that files client mail and queues it for review.
 
 Most of our work lives in private repos — the green squares are real.
 
