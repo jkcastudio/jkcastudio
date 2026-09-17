@@ -10,34 +10,34 @@ Astro · Tailwind · Cloudflare (Workers, Pages, D1, Zero Trust) · Stripe (Chec
 
 The shop itself runs on an agent ops lane: nightly fleet checks with visual regression on every live site, a self-auditing toolkit, and playbooks that turn taste into named, enforceable rules.
 
-## Live — built and run by us
+## Live, built and run by us
 
-- **[jkca.studio](https://jkca.studio)** — the studio
-- **[care.jkca.studio](https://care.jkca.studio)** — site care as a product: monitoring, restore-tested backups, a monthly report a person can read; Stripe Billing, client portal, one customer per client
-- **[kindform.co](https://kindform.co)** — client questionnaires and approval sheets that finish themselves; used on every JKCA intake
-- **[speedkrafted.com](https://speedkrafted.com)** — our producer studio for bigger, faster, multi-disciplinary briefs
-- **[beachybeat.com](https://beachybeat.com)** — hyperlocal, time-first event guide for three beach cities (self-refreshing data pipeline)
-- **[ravensmint.com](https://ravensmint.com)** — numismatics brand with a computer-vision photo pipeline behind it
-- **[theundealer.com](https://theundealer.com)** — coin intelligence, dealer-free
+- **[jkca.studio](https://jkca.studio)**: the studio
+- **[care.jkca.studio](https://care.jkca.studio)**: site care as a product. Monitoring, restore-tested backups, a monthly report a person can read. Stripe Billing, client portal, one customer per client
+- **[kindform.co](https://kindform.co)**: client questionnaires and approval sheets that finish themselves; used on every JKCA intake
+- **[speedkrafted.com](https://speedkrafted.com)**: our producer studio for bigger, faster, multi-disciplinary briefs
+- **[beachybeat.com](https://beachybeat.com)**: hyperlocal, time-first event guide for three beach cities (self-refreshing data pipeline)
+- **[ravensmint.com](https://ravensmint.com)**: numismatics brand with a computer-vision photo pipeline behind it
+- **[theundealer.com](https://theundealer.com)**: coin intelligence, dealer-free
 
 ## Recent client launches
 
-- **[barneyculls.com](https://barneyculls.com)** — family hull-cleaning outfit, Huntington Harbour since 1979: brand, site, live rate calculator, two-tier header, perception-audited (Sep 2026)
-- **[richardwatts.com](https://richardwatts.com)** — author and family-business advisor: three books on one shelf, press band, social system
-- **[bhcrhq.com](https://bhcrhq.com)** — industrial refrigerant group: full brand hub, WordPress fleet → static Astro on Cloudflare, email carried intact through the DNS cut
-- **[eco-kold.com](https://eco-kold.com)** — flagship product brand under BHCR: design system, product architecture, launch
-- **[golfonharbor.com](https://golfonharbor.com)** — family driving range in Fullerton: design system, launch, domain rescue
-- **[jkingneptune.com](https://www.jkingneptune.com)** — 50-year coastal bar & restaurant, WordPress → static Astro on Cloudflare
+- **[barneyculls.com](https://barneyculls.com)**: family hull-cleaning outfit, Huntington Harbour since 1979: brand, site, live rate calculator, two-tier header, perception-audited (Sep 2026)
+- **[richardwatts.com](https://richardwatts.com)**: author and family-business advisor: three books on one shelf, press band, social system
+- **[bhcrhq.com](https://bhcrhq.com)**: industrial refrigerant group: full brand hub, WordPress fleet → static Astro on Cloudflare, email carried intact through the DNS cut
+- **[eco-kold.com](https://eco-kold.com)**: flagship product brand under BHCR: design system, product architecture, launch
+- **[golfonharbor.com](https://golfonharbor.com)**: family driving range in Fullerton: design system, launch, domain rescue
+- **[jkingneptune.com](https://www.jkingneptune.com)**: 50-year coastal bar & restaurant, WordPress → static Astro on Cloudflare
 - In preview: Treebones Resort (Big Sur, faithful WordPress → Astro port), Ash Scatterings at Sea, Set Me Free, Fishcamp (Alaska), all on the Astro/Cloudflare stack
 - Ongoing: a 12-month migration program moving a WordPress fleet to Astro on Cloudflare
 
 ## In the shop
 
-- **MasterKrafted** — one management panel for a whole hosting fleet (sites, DNS, deploys, uptime). In private dogfood across ~60 sites.
-- **Care plans** — monthly site care where the report is the product: uptime, speed, backups, and the work done, in plain English.
-- **Agency toolkit** — codified design, voice, launch, and funnel playbooks; QA harnesses; a perception audit (44pt targets, contrast, motion bands) that runs against every live site; a Base Theme every build forks from.
-- **Ops lane** — nightly fleet probes, weekly offline backups of every site and zone, self-healing on the hosting box, an email drop that files client mail and queues it for review.
+- **MasterKrafted**: one management panel for a whole hosting fleet (sites, DNS, deploys, uptime). In private dogfood across ~60 sites.
+- **Care plans**: monthly site care where the report is the product: uptime, speed, backups, and the work done, in plain English.
+- **Agency toolkit**: codified design, voice, launch, and funnel playbooks; QA harnesses; a perception audit (44pt targets, contrast, motion bands) and a header sweep that checks every width from 320 to 1600, run against every live site; a Base Theme every build forks from.
+- **Ops lane**: nightly fleet probes, weekly offline backups of every site and zone, self-healing on the hosting box, an email drop that files client mail and queues it for review.
 
-Most of our work lives in private repos — the green squares are real.
+Most of our work lives in private repos. The green squares are real.
 
 **Work with us:** [jkca.studio](https://jkca.studio) · hi@jkca.studio
