@@ -50,6 +50,19 @@ they are not restated in `CLAUDE.md`.
 - **No em dashes in rendered copy.** Use commas, periods, or a colon. This applies to
   anything a visitor reads, not to code comments.
 
+## Lessons
+
+`LESSONS.md` at the repo root is the correction log: one line per correction, dated,
+what went wrong and the rule that prevents it. Read it before starting work here, and
+add a line after any correction from the owner or a reverted run. It stays short; a
+lesson that stops applying gets removed, not archived.
+
+- **Two reverts, one cause, stop.** When a loop or a crew run reverts twice for the same
+  reason, the run ends and the plan changes. Do not re-run the same brief a third time.
+- **Plan before a build of three or more steps.** Tooling and automation get a written
+  plan (scope, gates, what may be edited) before the first edit, the same way pages get a
+  comp gate. The plan names what the gate cannot reach.
+
 ## Handoff
 
 Leave the tree in a state the next agent can read: a clean build, a plain commit message
